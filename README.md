@@ -1,4 +1,4 @@
-📈 Stock Predictor
+📈 Aima
 
 A comprehensive AI-powered stock prediction system that leverages multiple machine learning models to forecast stock price movements. Built with Python, FastAPI, and TensorFlow, this application provides real-time predictions, interactive visualisations, and a complete web-based dashboard.
 
